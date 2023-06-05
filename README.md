@@ -38,9 +38,3 @@ Homes é um simples plugin de Minecraft que fornece uma maneira de salvar a loca
 
 ### Imagens: (Creating)
 
-
-
-
-
-
-A Minecraft Plugin developed in Java
