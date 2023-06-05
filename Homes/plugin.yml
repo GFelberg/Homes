@@ -1,0 +1,12 @@
+name: Homes
+version: 1.0
+author: GFelberg
+main: me.GFelberg.Homes.Main
+api-version: 1.13
+commands:
+  homes:
+    usage: /<command>
+  home:
+    usage: /<command>
+  sethome:
+    usage: /<command>
