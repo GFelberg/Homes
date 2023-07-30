@@ -12,15 +12,19 @@
 # Permissions
 
 # homes.admin : Access to the Admin Help Page
-# homes.home : Access to the Sethome and Home Command 
-# homes.homes : Access to the Homes Command
+# homes.home : Access to the Homes, Sethome and Home commands 
+# homes.update : Access to recieve notifications about the plugin, as new versions
 # home.reload : Access to Reload the Plugin
+
+# Update-Check Option - https://www.spigotmc.org/resources/homes.111630/
+# If true, a permission will be required to recieve the notifications if the player doesnt have the OP enabled
+update-check: true
 
 # Configuration 1.0
 # This configuration will display the Homes Messages
 
 Homes:
-  Prefix: '&b&l[&eHomes&b&l]&r'
+  Prefix: '&b[&eHomes&b]&r'
   Setted: '&eHome has been setted'
   Message: '&eTeleported to your home'
   NotFound: '&cHome not found!'
@@ -30,6 +34,6 @@ Homes:
 
 Help:
   Page: '&eShows this page'
-  Home: '&eTeleports to your Home'
-  Sethome: '&eSets the Home Location'
+  Home: '&eTeleports to your Home Location'
+  Sethome: '&eSetups your Home Location'
   Reload: '&eReloads the Plugin'

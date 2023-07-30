@@ -1,8 +1,8 @@
 name: Homes
-version: 1.0
+version: 1.1
 author: GFelberg
 main: me.GFelberg.Homes.Main
-api-version: 1.13
+api-version: 1.19
 commands:
   homes:
     usage: /<command>
