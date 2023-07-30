@@ -3,6 +3,8 @@
 ## English: :earth_americas:
 Homes is a simple plugin made for Minecraft which provides a way to save your home location easily
 
+![Homes GIF](https://github.com/GFelberg/Homes/assets/41524430/f58e6614-f573-4ad8-a6a8-5c29e4263fd3)
+
 ### Commands:
     /homes help : Shows the Help Page
     /home : Teleports to your Home
@@ -21,6 +23,8 @@ Homes is a simple plugin made for Minecraft which provides a way to save your ho
 
 ## Portuguese: <img src="https://github.com/GFelberg/Frozen/assets/41524430/4033b457-ed2c-4674-832e-06935c445f0c" width="30" height="30">
 Homes é um simples plugin de Minecraft que fornece uma maneira de salvar a localização de sua casa de uma forma prática
+
+![Homes GIF](https://github.com/GFelberg/Homes/assets/41524430/f58e6614-f573-4ad8-a6a8-5c29e4263fd3)
 
 ### Comandos:
     /homes help : Mostrar a Página de Ajuda
